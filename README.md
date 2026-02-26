@@ -55,6 +55,10 @@ print(ans)
 
 ## Output:
 
+![alt text](image.png)
+
+
+![alt text](img1.png)
 
 
 ## Result:
